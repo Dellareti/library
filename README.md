@@ -235,7 +235,7 @@ Atualize a chamada do método `get_frequent_renter_points` em `statement`:
 frequent_renter_points = rental.get_frequent_renter_points()
 ```
 
-Rode os testes, e observe que vários testes falham.
+Rode os testes, e observe que vários testes falham
 Ou seja, inserimos uma regressão (BUG!) no sistema.
 Testes funcionam como uma rede de proteção contra a inserção de bugs.
 
